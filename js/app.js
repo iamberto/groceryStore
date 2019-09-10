@@ -1,22 +1,10 @@
-<<<<<<< HEAD
-const storeName = 'BitBerto';
-document.title = `${storeName} Grocery Store`;
-
-
-// 
-=======
 const storeName = 'Jacque\'s';
 document.title = `${storeName} Grocery Store`;
 
->>>>>>> 647593b41b63fdc295ea9b2227025bb6d9057b2c
 const NAV_LIST = [
     {
         name: 'home',
         link: 'index.html'
-<<<<<<< HEAD
-    }
-];
-=======
     },
     //Make two more
     {
@@ -42,4 +30,3 @@ NAV_LIST.forEach( function (list)  {
 });
 
 
->>>>>>> 647593b41b63fdc295ea9b2227025bb6d9057b2c
